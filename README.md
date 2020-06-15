@@ -4,7 +4,7 @@ A giant roadmap and visual checklist for software engineering concepts by the St
 
 What did we miss? Have any feedback? [Open an issue](https://github.com/Static-Void-Academy/complete-software-roadmap/issues) or feel free to open a PR according to [guidelines below](#contributing).
 
-To view this graphic in its entirety, check it out on the [Static Void Academy's website](https://staticvoid.dev/software-roadmap).
+To view this graphic in its entirety, check it out on the [Static Void Academy's website](https://www.staticvoid.dev/software-roadmap).
 
 ## Contributing
 
