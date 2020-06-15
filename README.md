@@ -13,8 +13,8 @@ To view this graphic in its entirety, check it out on the [Static Void Academy's
 4. Open [Excalidraw](https://excalidraw.com/) in your web browser, and then open `sva-roadmap.excalidraw` in it. Make the changes you need to.
 5. When you are done, do two things:
   1. Make sure you save the roadmap back to the same file (`sva-roadmap.excalidraw`).
-  2. Export your roadmap (with your changes) as a PNG at 2x to `sva-roadmap.png`. To do so, click the document icon with arrow, click on "2x" on the bottom right, then click "PNG" on the bottom left. Overwrite `sva-roadmap.png` that's in the repository.
-6. Open a PR describing your changes, and someone will respond when available.
+  2. Export your roadmap (with your changes) as SVG at 2x to `sva-roadmap.svg`. To do so, click the document icon with arrow, click on "2x" on the bottom right, then click "SVG" on the bottom left. Overwrite `sva-roadmap.svg` that's in the repository.
+6. Commit, push, and open a PR describing your changes. Someone will respond when available.
 
 ## Planned Work
 
