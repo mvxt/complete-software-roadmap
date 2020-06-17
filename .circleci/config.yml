@@ -18,6 +18,7 @@ workflows:
   deploy:
     jobs:
       - push-s3:
+          context: static-void-prod
           filters:
             branches:
               only: master
