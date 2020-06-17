@@ -37,5 +37,4 @@ jobs:
       - aws-s3/copy:
           from: "./sva-roadmap.svg"
           to: "s3://staticvoid.dev/software-roadmap/sva-roadmap.svg"
-          overwrite: true 
 
