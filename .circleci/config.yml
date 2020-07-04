@@ -35,9 +35,9 @@ jobs:
     steps:
       - checkout
       - aws-s3/copy:
-          from: "./sva-roadmap-frontend.svg"
-          to: "s3://staticvoid.dev/software-roadmap/sva-roadmap-frontend.svg"
+          from: "./sva-roadmap-frontend-all.svg"
+          to: "s3://staticvoid.dev/software-roadmap/sva-roadmap-frontend-all.svg"
       - aws-s3/copy:
-          from: "./sva-roadmap-backend.svg"
-          to: "s3://staticvoid.dev/software-roadmap/sva-roadmap-backend.svg"
+          from: "./sva-roadmap-backend-all.svg"
+          to: "s3://staticvoid.dev/software-roadmap/sva-roadmap-backend-all.svg"
 
